@@ -1,0 +1,72 @@
+#grad1 {
+  height: 200px;
+  background-color: blue; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, red , blue);
+}
+h1{
+	color:white;
+}
+table{
+	opacity:.6;
+	/* background-color:white; */
+}
+thead{
+	background-color:black;
+	color:white;
+}
+input,select{
+	width:85%;
+	height:40px;
+}
+.bold{
+	font-size:30px;
+}
+.mydiv input{
+	width:3%;
+}
+button{
+	width:100px;
+	height:40px;
+	background-color:Green;
+	color:white;
+	border-radius:10px;
+}
+.cancel_btn button{
+	width:100px;
+	height:40px;
+	background-color:skyblue;
+	color:black;
+}
+.blue{
+	background-color:#366ad9;
+	border-radius:10px;
+}
+.red{
+	border-radius:10px;
+	background-color:#d93636;
+}
+.yellow{
+	border-radius:10px;
+	background-color:#db8e12;
+}
+.white{
+	color:white;
+	font-size:30px;
+}
+thead{
+	background-color:;
+}
+#delete_page{
+	margin:auto;
+	text-align:center;
+}
+.nav ul li{
+	display:inline;
+	margin:20px;
+}
+.nav ul li a{
+	text-decoration:none;
+	font-size:30px;
+	font-family:monospace;
+	color:white;
+}
